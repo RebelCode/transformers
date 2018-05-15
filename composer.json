@@ -12,7 +12,16 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^5.4 | ^7.0"
+        "php": "^5.4 | ^7.0",
+        "dhii/transformer-interface": "^0.1-alpha1",
+        "dhii/container-helper-base": "^0.1-alpha7",
+        "dhii/data-container-base": "^0.1-alpha2",
+        "dhii/validation-base": "^0.2-alpha2",
+        "dhii/args-list-validation": "^0.1-alpha1",
+        "dhii/invocable-base": "^0.1-alpha2",
+        "dhii/iterator-base": "^0.1-alpha3",
+        "dhii/iterator-helper-base": "^0.1-alpha2",
+        "dhii/normalization-helper-base": "^0.1-alpha2"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",
