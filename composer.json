@@ -13,6 +13,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^5.4 | ^7.0",
+        "dhii/transformer-interface": "^0.1-alpha1",
         "dhii/container-helper-base": "^0.1-alpha7",
         "dhii/data-container-base": "^0.1-alpha2",
         "dhii/validation-base": "^0.2-alpha2",

@@ -2,6 +2,8 @@
 
 namespace RebelCode\Transformers;
 
+use Dhii\Transformer\TransformerInterface;
+
 /**
  * A no-operation transformer implementation.
  *

@@ -3,7 +3,7 @@
 namespace RebelCode\Transformers\Exception;
 
 use Dhii\Exception\ThrowableInterface;
-use RebelCode\Transformers\TransformerInterface;
+use Dhii\Transformer\TransformerInterface;
 
 /**
  * An exception thrown in relation to a transformer.

@@ -3,6 +3,7 @@
 namespace RebelCode\Transformers;
 
 use ArrayAccess;
+use Dhii\Transformer\TransformerInterface;
 use Dhii\Util\String\StringableInterface as Stringable;
 use Exception as RootException;
 use InvalidArgumentException;

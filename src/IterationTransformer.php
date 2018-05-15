@@ -5,6 +5,7 @@ namespace RebelCode\Transformers;
 use Dhii\I18n\StringTranslatingTrait;
 use Dhii\Iterator\CreateIterationCapableTrait;
 use Dhii\Iterator\IterationInterface;
+use Dhii\Transformer\TransformerInterface;
 use RebelCode\Transformers\Exception\CreateCouldNotTransformExceptionCapableTrait;
 
 /**

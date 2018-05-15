@@ -21,6 +21,7 @@ use Dhii\Invocation\NormalizeMethodCallableCapableTrait;
 use Dhii\Invocation\ValidateParamsCapableTrait;
 use Dhii\Iterator\CountIterableCapableTrait;
 use Dhii\Iterator\ResolveIteratorCapableTrait;
+use Dhii\Transformer\TransformerInterface;
 use Dhii\Util\Normalization\NormalizeArrayCapableTrait;
 use Dhii\Util\Normalization\NormalizeIntCapableTrait;
 use Dhii\Util\Normalization\NormalizeIterableCapableTrait;

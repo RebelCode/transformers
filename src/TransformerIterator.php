@@ -2,6 +2,7 @@
 
 namespace RebelCode\Transformers;
 
+use Dhii\Transformer\TransformerInterface;
 use Iterator;
 
 /**

@@ -4,7 +4,7 @@ namespace RebelCode\Transformers\Exception;
 
 use Dhii\Util\String\StringableInterface as Stringable;
 use Exception as RootException;
-use RebelCode\Transformers\TransformerInterface;
+use Dhii\Transformer\TransformerInterface;
 use Throwable;
 
 /**

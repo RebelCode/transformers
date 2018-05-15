@@ -5,7 +5,7 @@ namespace RebelCode\Transformers\Exception;
 use Throwable;
 use Exception as RootException;
 use Dhii\Util\String\StringableInterface as Stringable;
-use RebelCode\Transformers\TransformerInterface;
+use Dhii\Transformer\TransformerInterface;
 
 /**
  * Functionality for creating an exception related to a transformer failing to transform some source data.
