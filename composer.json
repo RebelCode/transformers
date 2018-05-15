@@ -34,6 +34,12 @@
             "RebelCode\\Transformers\\": "src"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "RebelCode\\Transformers\\UnitTest\\": "test/unit",
+            "RebelCode\\Transformers\\FuncTest\\": "test/functional"
+        }
+    },
     "scripts": {
         "test": "phpunit",
         "csfix": "php-cs-fixer fix -vvv"
