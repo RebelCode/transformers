@@ -5,8 +5,8 @@ namespace RebelCode\Transformers;
 use Dhii\Transformer\TransformerInterface;
 use Dhii\Util\String\StringableInterface as Stringable;
 use Exception as RootException;
-use RebelCode\Transformers\Exception\CouldNotTransformExceptionInterface;
-use RebelCode\Transformers\Exception\TransformerExceptionInterface;
+use Dhii\Transformer\Exception\CouldNotTransformExceptionInterface;
+use Dhii\Transformer\Exception\TransformerExceptionInterface;
 use RuntimeException;
 
 /**

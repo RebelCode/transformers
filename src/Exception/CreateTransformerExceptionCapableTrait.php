@@ -2,6 +2,7 @@
 
 namespace RebelCode\Transformers\Exception;
 
+use Dhii\Transformer\Exception\TransformerExceptionInterface;
 use Dhii\Util\String\StringableInterface as Stringable;
 use Exception as RootException;
 use Dhii\Transformer\TransformerInterface;

@@ -11,7 +11,7 @@ use OutOfRangeException;
 use Psr\Container\ContainerExceptionInterface;
 use Psr\Container\ContainerInterface as BaseContainerInterface;
 use Psr\Container\NotFoundExceptionInterface;
-use RebelCode\Transformers\Exception\TransformerExceptionInterface;
+use Dhii\Transformer\Exception\TransformerExceptionInterface;
 use stdClass;
 use Throwable;
 
