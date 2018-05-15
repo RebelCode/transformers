@@ -64,7 +64,6 @@
       <path value="$PROJECT_DIR$/vendor/dhii/data-container-base" />
       <path value="$PROJECT_DIR$/vendor/dhii/args-list-validation" />
       <path value="$PROJECT_DIR$/vendor/dhii/container-helper-base" />
-      <path value="$PROJECT_DIR$/vendor/dhii/transformer-interface" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0" />
